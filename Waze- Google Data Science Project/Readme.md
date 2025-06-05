@@ -66,11 +66,11 @@ The project includes the following files:
 - 2. Waze project lab.pdf: Notebook for data inspection and preparation.
 - 3. Waze project lab.pdf: Notebook for exploratory data analysis and visualization.
 - 4. Waze project lab.pdf: Notebook for statistical analysis.
-- 4.1 -executive-summary.pdf: Executive summary for the statistical analysis stage.
+- 4.1 executive-summary.pdf: Executive summary for the statistical analysis stage.
 - 5. Waze project lab.pdf: Notebook for regression modeling.
-- 5.1 -executive-summary.pdf: Executive summary for the regression modeling stage.
+- 5.1 executive-summary.pdf: Executive summary for the regression modeling stage.
 - 6. Waze project lab.pdf: Notebook for machine learning modeling.
-- 6.1 -executive-summary.pdf: Executive summary for the machine learning modeling stage.
+- 6.1 executive-summary.pdf: Executive summary for the machine learning modeling stage.
 
 ## Dependencies
 
