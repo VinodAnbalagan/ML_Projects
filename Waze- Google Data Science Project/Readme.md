@@ -62,7 +62,7 @@ The project is divided into several stages, each with specific objectives and ta
 
 The project includes the following files:
 
-- waze_dataset.csv: The dataset used for analysis.
+- 1. waze_dataset.csv: The dataset used for analysis.
 - 2. Waze project lab.pdf: Notebook for data inspection and preparation.
 - 3. Waze project lab.pdf: Notebook for exploratory data analysis and visualization.
 - 4. Waze project lab.pdf: Notebook for statistical analysis.
