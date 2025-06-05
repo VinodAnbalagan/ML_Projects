@@ -84,4 +84,4 @@ The project includes the following files:
 
 ## Author
 
-\[Vinod Anbalagan]
+Vinod Anbalagan
